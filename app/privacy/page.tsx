@@ -107,7 +107,7 @@ export default function Privacy() {
                 Ha kérdése van az adatvédelmi szabályzattal vagy az Ön adatainak kezelésével kapcsolatban, kérjük, vegyük fel a kapcsolatot:
               </p>
               <p className="mt-3">
-                Email: info@triatlon.hu
+                Email: contacts@hungarytriatlon.com
               </p>
             </section>
           </motion.div>

@@ -99,7 +99,7 @@ export default function Cookies() {
                 Ha kérdése van a cookie-szabályzattal kapcsolatban, kérjük, vegyük fel a kapcsolatot:
               </p>
               <p className="mt-3">
-                Email: info@triatlon.hu
+                Email: contacts@hungarytriatlon.com
               </p>
             </section>
           </motion.div>
