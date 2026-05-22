@@ -42,7 +42,7 @@ export function Footer() {
         {/* Bottom */}
         <div className="border-t border-background/20 pt-8 flex flex-col sm:flex-row justify-between items-center text-sm text-background/80">
           <p>&copy; {currentYear} Hungarytriatlon.</p>
-          <p>hungarytriatlon.com</p>
+          <p>contacts@hungarytriatlon.com</p>
         </div>
       </div>
     </footer>
