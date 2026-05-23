@@ -7,7 +7,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 const _playfair = Playfair_Display({ subsets: ["latin"], variable: '--font-serif' });
 
 export const metadata: Metadata = {
-  title: 'Triatlon Magyarország',
+  title: 'Hungarytriatlon',
   description: 'Modern triathlon website dedicated to swimming, cycling, and running in Hungary',
 }
 

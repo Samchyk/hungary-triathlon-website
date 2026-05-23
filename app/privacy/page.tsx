@@ -45,7 +45,7 @@ export default function Privacy() {
                 Bevezetés
               </h2>
               <p>
-                A Triatlon Magyarország (a továbbiakban: &quot;mi&quot;, &quot;unk&quot;, &quot;a Weboldal&quot;) elkötelezett az Ön személyes adatainak védelme iránt. Ez az adatvédelmi szabályzat leírja, hogy hogyan gyűjtjük, felhasználjuk, osztjuk meg és védelmezzük az Ön adatait.
+                A hungarytriatlon.com (a továbbiakban: &quot;mi&quot;, &quot;unk&quot;, &quot;a Weboldal&quot;) elkötelezett az Ön személyes adatainak védelme iránt. Ez az adatvédelmi szabályzat leírja, hogy hogyan gyűjtjük, felhasználjuk, osztjuk meg és védelmezzük az Ön adatait.
               </p>
             </section>
 
